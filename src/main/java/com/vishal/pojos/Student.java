@@ -27,6 +27,9 @@ public class Student {
 		this.gender = gender;
 		this.age = age;
 	}
+	public Student() {
+		// TODO Auto-generated constructor stub
+	}
 	/**
 	 * @return the id
 	 */
